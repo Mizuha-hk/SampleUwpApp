@@ -11,7 +11,7 @@
   <UpdateSettings>
     <OnLaunch HoursBetweenUpdateChecks="0"
 			  UpdateBlocksActivation="true"
-              ShowPrompt="true"/>
+			  ShowPrompt="true"/>
   </UpdateSettings>
 
 </AppInstaller>
