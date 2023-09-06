@@ -9,7 +9,7 @@
   <Identity
     Name="9c636527-e82b-408e-a32e-956e1d54543d"
     Publisher="CN=Mizuha"
-    Version="0.0.1.0" />
+    Version="0.0.3.0" />
 
   <Properties>
     <DisplayName>SampleUwpApp</DisplayName>

@@ -63,7 +63,7 @@
     <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
     <GenerateTestArtifacts>True</GenerateTestArtifacts>
     <AppxBundlePlatforms>x86|x64|arm</AppxBundlePlatforms>
-    <AppInstallerUri>https://gentle-island-0a1a13700.3.azurestaticapps.net</AppInstallerUri>
+    <AppInstallerUri>C:\Users\hkhar\source\repos\SampleUwpApp\SampleUwpApp.Package\AppPackages</AppInstallerUri>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
     <AppxBundle>Always</AppxBundle>
